@@ -31,7 +31,7 @@ Our platform is user-friendly, making it easy to find and contact contractors. U
 Benefits for Contractors
 ========================
 
-![](./assets/collage.png)
+![](https://github.com/taskero/.github/blob/main/profile/assets/collage.png)
 
 Our platform provides contractors with many great benefits, including:
 
